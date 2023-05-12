@@ -161,3 +161,7 @@ cython_debug/
 
 # Result files
 *.json
+
+# media files
+*.mp3
+*.wav
